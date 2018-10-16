@@ -1,0 +1,9 @@
+//10172
+//아래 예제와 같이 개를 출력하시오.
+package day1;
+
+public class day1_05 {
+	public static void main(String[] args) {
+		
+	}
+}
